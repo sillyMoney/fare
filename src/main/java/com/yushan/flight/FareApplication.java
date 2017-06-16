@@ -1,4 +1,4 @@
-package com.yushan.flight.fare;
+package com.yushan.flight;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

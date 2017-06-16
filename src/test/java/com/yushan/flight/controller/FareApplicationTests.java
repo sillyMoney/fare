@@ -1,4 +1,4 @@
-package com.yushan.flight.fare;
+package com.yushan.flight.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
